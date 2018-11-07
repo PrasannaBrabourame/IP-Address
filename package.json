@@ -1,0 +1,29 @@
+{
+  "name": "ip-address",
+  "version": "0.0.1",
+  "description": "Get the IP Address, Browser and Platform using Node JS Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasannaBrabourame/IP-Address.git"
+  },
+  "keywords": [
+    "Express",
+    "User-Agent",
+    "Parser"
+  ],
+  "author": "Prasanna Brabourame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasannaBrabourame/IP-Address/issues"
+  },
+  "homepage": "https://github.com/PrasannaBrabourame/IP-Address#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "ua-parser-js": "^0.7.19"
+  }
+}
